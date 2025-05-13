@@ -58,5 +58,3 @@ The Calculator class provides the following methods:
 1. Clone the repository or copy the files into a directory
 2. Open a terminal in the project folder
 3. Run:
-
-```bash
