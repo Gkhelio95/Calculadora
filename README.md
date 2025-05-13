@@ -60,9 +60,3 @@ The Calculator class provides the following methods:
 3. Run:
 
 ```bash
-npm install
-
-
-Run with:
-
-```bash
